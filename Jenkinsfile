@@ -8,7 +8,7 @@ pipeline {
     }
     stage('aftertest') {
       steps {
-        fileExists 'Resourse'
+        fileExists 'Resourse.txt'
       }
     }
   }
