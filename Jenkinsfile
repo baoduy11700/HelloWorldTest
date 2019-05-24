@@ -7,20 +7,17 @@ pipeline {
       }
     }
     stage('aftertest') {
-      parallel {
-        stage('aftertest') {
-          steps {
-            fileExists 'abc.txt'
-            writeFile(file: 'test.txt', text: 'abc', encoding: 'utf-8')
-          }
-        }
-        stage('test') {
-          steps {
-            error 'no file'
-            readFile(file: 'test.txt', encoding: 'uft-8')
-            waitUntil()
-          }
-        }
+      steps {
+        fileExists 'abc.txt'
+        writeFile(file: 'test.txt', text: 'abc', encoding: 'utf-8')
+      }
+    }
+    stage('test') {
+      steps {
+        fileExists 'test.txt'
+        warnError(message: 'hello', catchInterruptions: true)
+        error 'hello'
+        readFile(file: 'test.txt', encoding: 'utf-8')
       }
     }
   }
