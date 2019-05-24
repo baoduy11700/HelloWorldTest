@@ -15,7 +15,7 @@ pipeline {
     stage('test') {
       steps {
         fileExists 'test1.txt'
-        warnError(message: 'hello', catchInterruptions: true) {
+        warnError(message: 'hello') {
           error 'helloo'
         }
 
