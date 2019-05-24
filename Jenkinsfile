@@ -15,8 +15,8 @@ pipeline {
     stage('test') {
       steps {
         fileExists 'test1.txt'
-        warnError(message: 'hello') {
-          error 'helloo'
+        warnError(message: 'there is error', catchInterruptions: true) {
+          readFile 'tasda.txt'
         }
 
         readFile(file: 'test1.txt', encoding: 'utf-8')
