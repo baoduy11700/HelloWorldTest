@@ -14,12 +14,10 @@ pipeline {
     }
     stage('test') {
       steps {
-        fileExists 'test1.txt'
         warnError(message: 'there is error', catchInterruptions: true) {
-          readFile 'tasda.txt'
+          fileExists 'abc.txt'
         }
 
-        readFile(file: 'test1.txt', encoding: 'utf-8')
       }
     }
   }
