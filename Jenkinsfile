@@ -15,7 +15,10 @@ pipeline {
     stage('test') {
       steps {
         warnError(message: 'there is error', catchInterruptions: true) {
-          fileExists 'abc.txt'
+          waitUntil() {
+            fileExists 'bc.txt'
+          }
+
         }
 
       }
