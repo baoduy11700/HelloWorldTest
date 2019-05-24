@@ -8,7 +8,8 @@ pipeline {
     }
     stage('aftertest') {
       steps {
-        fileExists 'abc'
+        fileExists 'abc.txt'
+        writeFile(file: 'test', text: 'abc', encoding: 'utf-8')
       }
     }
   }
