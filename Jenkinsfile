@@ -8,7 +8,16 @@ pipeline {
     }
     stage('aftertest') {
       steps {
-        fileExists 'Resourse'
+        fileExists 'abc.txt'
+        writeFile(file: 'test1.txt', text: 'abc', encoding: 'utf-8')
+      }
+    }
+    stage('test') {
+      steps {
+        warnError(message: 'there is error', catchInterruptions: true) {
+          fileExists 'abc.txt'
+        }
+
       }
     }
   }
