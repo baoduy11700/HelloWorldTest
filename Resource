@@ -23,3 +23,16 @@ https://www.edureka.co/blog/install-jenkins/
 https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery
 https://www.edureka.co/blog/jenkins-tutorial/
 https://www.edureka.co/blog/what-is-jenkins/
+
+//jenkins
+https://www.guru99.com/jenkin-continuous-integration.html
+https://viblo.asia/p/continuous-integration-with-jenkins-bai-2-cai-dat-va-cau-hinh-jenkins-L4x5xRwYZBM
+https://viblo.asia/p/gioi-thieu-ve-jenkins-mot-open-source-continuous-integration-server-zb7vDV0OMjKd
+https://vi.wikipedia.org/wiki/Jenkins_(ph%E1%BA%A7n_m%E1%BB%81m)
+https://tech.vccloud.vn/jenkins-la-gi-mo-hinh-kiem-tra-code-tu-dong-noi-tieng-2018122210502845.htm
+https://www.infoworld.com/article/3239666/what-is-jenkins-the-ci-server-explained.html
+https://www.slideshare.net/MinhTriLam/vai-tr-ca-jenkins-trong-m-hnh-pht-trin-phn-mm-agile
+https://dev.to/bugfenderapp/what-is-jenkins-and-why-should-you-be-using-it-2pe
+https://jenkins.io/doc/book/blueocean/getting-started/
+https://www.quora.com/What-is-Jenkins-When-and-why-is-it-used
+https://stackoverflow.com/questions/38534781/check-if-a-file-exists-in-jenkins-pipeline
