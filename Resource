@@ -42,3 +42,28 @@ https://www.tmasolutions.com/devops-and-continuous-integration
 https://www.exoscale.com/syslog/what-is-continuous-integration/
 https://dotnetvibes.com/2018/04/10/continuous-delivery-is-not-continuous-deployment/
 https://www.thinksys.com/qa-testing/fundamentals-continuous-integration-testing/
+
+//azure
+*what is azure ?*
+https://searchcloudcomputing.techtarget.com/definition/Windows-Azure
+https://ccbtechnology.com/what-microsoft-azure-is-and-why-it-matters/
+https://www.quora.com/What-is-Microsoft-Azure-and-its-uses
+https://www.sumologic.com/brief/what-is-microsoft-azure-and-why-use-it/
+https://blog.5nine.com/what-is-microsoft-azure
+https://en.wikipedia.org/wiki/Microsoft_Azure
+https://www.edureka.co/blog/what-is-azure/
+
+*what is Azure virtual machine*
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview
+https://www.nigelfrank.com/blog/microsoft-azure-virtual-machines-for-the-confused/
+https://blog.rackspace.com/explaining-microsoft-azure-virtual-machines-to-a-windows-sysadmin
+https://www.g2.com/products/azure-virtual-machines/reviews#survey-response-878660
+https://azure.microsoft.com/en-us/global-infrastructure/regions/
+https://www.edureka.co/blog/microsoft-azure-tutorial
+
+*What is azure storage*
+https://azure.microsoft.com/en-in/services/storage/
+https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
+https://www.tutorialspoint.com/microsoft_azure/microsoft_azure_storage.htm
+https://viblo.asia/p/tim-hieu-ve-microsoft-azure-azure-storage-phan-1-maGK7j0M5j2
+https://www.edureka.co/blog/azure-storage-tutorial/
