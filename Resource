@@ -67,3 +67,13 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
 https://www.tutorialspoint.com/microsoft_azure/microsoft_azure_storage.htm
 https://viblo.asia/p/tim-hieu-ve-microsoft-azure-azure-storage-phan-1-maGK7j0M5j2
 https://www.edureka.co/blog/azure-storage-tutorial/
+
+*What is azure Networking*
+https://www.edureka.co/blog/azure-virtual-network-tutorial/
+https://brainscale.com/blogs/microsoft-azure-networking-part-3/
+https://azure.microsoft.com/en-us/product-categories/networking/
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+https://searchcloudcomputing.techtarget.com/feature/Words-to-go-Microsoft-Azure-networking-services
+https://azure.microsoft.com/es-es/blog/networking-to-and-within-the-azure-cloud/
+https://www.juniper.net/documentation/en_US/vsrx/topics/task/multi-task/security-vsrx-azure-marketplace-virtual-network.html
+https://blog.cloudpassage.com/2019/02/28/securing-azure-virtual-network/
