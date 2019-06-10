@@ -88,3 +88,7 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
 https://www.ssh.com/ssh/
 https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-connect-vm
+
+*Azure Networking - IP*
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-public-ip-address
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm
