@@ -67,6 +67,11 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
 https://www.tutorialspoint.com/microsoft_azure/microsoft_azure_storage.htm
 https://viblo.asia/p/tim-hieu-ve-microsoft-azure-azure-storage-phan-1-maGK7j0M5j2
 https://www.edureka.co/blog/azure-storage-tutorial/
+https://www.petri.com/understanding-azure-storage-storage-types-redundancy
+https://cloudacademy.com/blog/azure-storage-service-overview/
+https://www.cloudberrylab.com/resources/blog/microsoft-azure-storage-types-explained/
+https://www.sqlshack.com/different-azure-storage-types-file-blob-queue-table/
+http://blog.mycloudit.com/4-differences-between-the-azure-vm-storage-types
 
 *What is azure Networking*
 https://www.edureka.co/blog/azure-virtual-network-tutorial/
@@ -92,3 +97,6 @@ https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-
 *Azure Networking - IP*
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-public-ip-address
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm
+
+*Azure IOPS*
+https://blogs.technet.microsoft.com/andrewc/2016/09/09/understanding-azure-virtual-machine-iops-throughput-and-disk-latency/
