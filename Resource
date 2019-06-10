@@ -77,3 +77,14 @@ https://searchcloudcomputing.techtarget.com/feature/Words-to-go-Microsoft-Azure-
 https://azure.microsoft.com/es-es/blog/networking-to-and-within-the-azure-cloud/
 https://www.juniper.net/documentation/en_US/vsrx/topics/task/multi-task/security-vsrx-azure-marketplace-virtual-network.html
 https://blog.cloudpassage.com/2019/02/28/securing-azure-virtual-network/
+
+*Create Azure Virtual Machine*
+https://linuxize.com/post/how-to-install-jenkins-on-ubuntu-18-04/
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+https://www.digitalocean.com/community/tutorials/how-to-configure-jenkins-with-ssl-using-an-nginx-reverse-proxy-on-ubuntu-18-04
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04
+
+*Putty*
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
+https://www.ssh.com/ssh/
+https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-connect-vm
