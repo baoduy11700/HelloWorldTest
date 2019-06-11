@@ -100,3 +100,21 @@ https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addres
 
 *Azure IOPS*
 https://blogs.technet.microsoft.com/andrewc/2016/09/09/understanding-azure-virtual-machine-iops-throughput-and-disk-latency/
+
+*Azure Networking - Network security group*
+https://robertsmit.wordpress.com/2017/09/11/step-by-step-azure-network-security-groups-nsg-security-center-azure-nsg-network/
+https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+https://blogs.msdn.microsoft.com/igorpag/2016/05/14/azure-network-security-groups-nsg-best-practices-and-lessons-learned/
+
+*Azure Authentication and Active directory*
+https://viblo.asia/p/tong-quan-ve-active-directory-tren-windows-server-4dbZNxJk5YM
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
+https://docs.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad
+https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios
+https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization
+https://azure.microsoft.com/es-es/blog/azure-websites-authentication-authorization/
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-protocols-oauth-code
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-api-authentication
+https://www.red-gate.com/simple-talk/cloud/security-and-compliance/azure-active-directory-part-1-an-introduction/
+https://www.varonis.com/blog/windows-vs-azure-active-directory/
