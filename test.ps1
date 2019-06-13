@@ -1,4 +1,4 @@
-﻿try{
+﻿
 $ErrorActionPreference = "Stop"
 Write-Host "Hello World !"
 $linuxpath = '/var/'
@@ -10,8 +10,5 @@ if(Test-Path $linuxpath/NumberofCommand.txt){
 }else{
 New-item -Path $linuxpath -Name NumberofCommand.txt -Value $textfile}
 Get-Content -Path $linuxpath/NumberofCommand.txt
-}
-Catch{
-    $LastExitCode = 1
-    exit $LastExitCode 
-}
+
+
