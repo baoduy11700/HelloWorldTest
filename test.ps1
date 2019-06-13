@@ -1,4 +1,5 @@
 ﻿try{
+$ErrorActionPreference = "Stop"
 Write-Host "Hello World !"
 $linuxpath = '/var/'
 $number = Get-Command | Measure-Object | Select-Object -Property Count | Out-String
@@ -8,7 +9,8 @@ if(Test-Path $linuxpath/NumberofCommand.txt){
     New-item -Path $linuxpath -Name NumberofCommand.txt -Value $textfile
 }else{
 New-item -Path $linuxpath -Name NumberofCommand.txt -Value $textfile}
-Get-Content -Path $linuxpath/NumberofCommand.txt}
+Get-Content -Path $linuxpath/NumberofCommand.txt
+}
 Catch{
     $LastExitCode = 1
     exit $LastExitCode 
