@@ -1,6 +1,6 @@
 ﻿
 $ErrorActionPreference = "Stop"
-Write-Host "Hello World !"
+Write-Host "Hello World 69 !"
 $linuxpath = '/home/duyvmagent/workspace/'
 $number = Get-Command | Measure-Object | Select-Object -Property Count | Out-String
 [string]$textfile = "Chi tiết phiên bản của powershell là : $($PSVersionTable | Out-String) Tổng số câu lệnh là : $($number)"
