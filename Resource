@@ -125,7 +125,19 @@ https://www.varonis.com/blog/windows-vs-azure-active-directory/
 https://vitux.com/how-to-install-microsoft-powershell-on-ubuntu/
 https://stackoverflow.com/questions/10452905/how-to-run-a-powershell-script-as-a-job-in-jenkins
 
+#Install powershell core to ubuntu-18-04 general ways
+https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6
+https://websiteforstudents.com/install-microsoft-powershell-core-for-linux-on-ubuntu-16-04-18-04/
+https://www.linuxhelp.com/how-to-install-powershell-on-ubuntu-16-04-lts
+https://gist.github.com/goyalmohit/0e58a42a7e2d7176adbfc1d8de2a388c
+https://www.tutorialspoint.com/articles/how-to-install-microsoft-powershell-on-ubuntu-16-04
+
 #Using Azure VM agent plugin to deploy Jenkins build on Azure's virtual machine
+https://docs.microsoft.com/en-us/azure/jenkins/jenkins-azure-vm-agents
+https://wiki.jenkins.io/display/JENKINS/Azure+VM+Agents+Plugin
+https://viblo.asia/p/part-4-jenkins-ci-cau-hinh-slave-node-machine-va-tich-hop-he-thong-phan-tan-phan-cuoi-4P856aNLlY3
+https://wiki.jenkins.io/display/JENKINS/Distributed+builds
+https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli?toc=%2Fazure%2Fazure-resource-manager&view=azure-cli-latest#code-try-0
 
 
 
