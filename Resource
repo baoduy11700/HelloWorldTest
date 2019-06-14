@@ -118,3 +118,16 @@ https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-protocols-oau
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-api-authentication
 https://www.red-gate.com/simple-talk/cloud/security-and-compliance/azure-active-directory-part-1-an-introduction/
 https://www.varonis.com/blog/windows-vs-azure-active-directory/
+
+############################################################
+
+#Install powershell core to ubuntu-18-04 via SNAP
+https://vitux.com/how-to-install-microsoft-powershell-on-ubuntu/
+https://stackoverflow.com/questions/10452905/how-to-run-a-powershell-script-as-a-job-in-jenkins
+
+#Using Azure VM agent plugin to deploy Jenkins build on Azure's virtual machine
+
+
+
+
+
