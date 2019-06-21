@@ -1,2 +1,0 @@
-# HelloWorldTest
-test local jenkins
