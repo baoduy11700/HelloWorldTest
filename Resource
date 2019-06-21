@@ -141,6 +141,28 @@ https://viblo.asia/p/part-4-jenkins-ci-cau-hinh-slave-node-machine-va-tich-hop-h
 https://wiki.jenkins.io/display/JENKINS/Distributed+builds
 https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli?toc=%2Fazure%2Fazure-resource-manager&view=azure-cli-latest#code-try-0
 
+###Testing in CI - Maybe useful##########################################
+https://wiki.jenkins.io/display/JENKINS/JUnit+Plugin
+https://docs.stackify.com/docs/dt-integrations-retrace-with-jenkins
+https://jenkins.io/doc/pipeline/tour/tests-and-artifacts/
+https://www.tutorialspoint.com/jenkins/jenkins_continuous_deployment.htm
+https://dzone.com/articles/building-a-continuous-delivery-pipeline-using-jenk
+//////// Pester ////////
+https://www.red-gate.com/simple-talk/sysadmin/powershell/introduction-to-testing-your-powershell-code-with-pester/
+https://www.red-gate.com/simple-talk/sysadmin/powershell/advanced-testing-of-your-powershell-code-with-pester/
+https://www.red-gate.com/simple-talk/sysadmin/powershell/testing-powershell-modules-with-pester/
+https://blogs.msdn.microsoft.com/mvpawardprogram/2017/05/30/testing-powershell-with-pester/
+https://devblogs.microsoft.com/scripting/unit-testing-powershell-code-with-pester/
+https://devblogs.microsoft.com/scripting/getting-started-with-pester/
+https://devblogs.microsoft.com/scripting/testing-script-modules-with-pester/
+https://devblogs.microsoft.com/scripting/what-is-pester-and-why-should-i-care/
+https://www.robinosborne.co.uk/2016/06/27/unit-testing-powershell-with-pester/
+https://www.oreilly.com/library/view/mastering-windows-powershell/9781787126305/b3371892-6e61-49f4-bbbe-42b515a01095.xhtml
+https://mcpmag.com/articles/2017/12/20/powershell-pester-best-practices.aspx
+https://www.petri.com/testing-powershell-with-pester
+https://help.insight.com/app/answers/detail/a_id/129/~/pester-powershell-infrastructure-test-tutorial
+
+
 
 
 
