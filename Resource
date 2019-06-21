@@ -42,3 +42,106 @@ https://www.tmasolutions.com/devops-and-continuous-integration
 https://www.exoscale.com/syslog/what-is-continuous-integration/
 https://dotnetvibes.com/2018/04/10/continuous-delivery-is-not-continuous-deployment/
 https://www.thinksys.com/qa-testing/fundamentals-continuous-integration-testing/
+
+//azure
+*what is azure ?*
+https://searchcloudcomputing.techtarget.com/definition/Windows-Azure
+https://ccbtechnology.com/what-microsoft-azure-is-and-why-it-matters/
+https://www.quora.com/What-is-Microsoft-Azure-and-its-uses
+https://www.sumologic.com/brief/what-is-microsoft-azure-and-why-use-it/
+https://blog.5nine.com/what-is-microsoft-azure
+https://en.wikipedia.org/wiki/Microsoft_Azure
+https://www.edureka.co/blog/what-is-azure/
+
+*what is Azure virtual machine*
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview
+https://www.nigelfrank.com/blog/microsoft-azure-virtual-machines-for-the-confused/
+https://blog.rackspace.com/explaining-microsoft-azure-virtual-machines-to-a-windows-sysadmin
+https://www.g2.com/products/azure-virtual-machines/reviews#survey-response-878660
+https://azure.microsoft.com/en-us/global-infrastructure/regions/
+https://www.edureka.co/blog/microsoft-azure-tutorial
+
+*What is azure storage*
+https://azure.microsoft.com/en-in/services/storage/
+https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
+https://www.tutorialspoint.com/microsoft_azure/microsoft_azure_storage.htm
+https://viblo.asia/p/tim-hieu-ve-microsoft-azure-azure-storage-phan-1-maGK7j0M5j2
+https://www.edureka.co/blog/azure-storage-tutorial/
+https://www.petri.com/understanding-azure-storage-storage-types-redundancy
+https://cloudacademy.com/blog/azure-storage-service-overview/
+https://www.cloudberrylab.com/resources/blog/microsoft-azure-storage-types-explained/
+https://www.sqlshack.com/different-azure-storage-types-file-blob-queue-table/
+http://blog.mycloudit.com/4-differences-between-the-azure-vm-storage-types
+
+*What is azure Networking*
+https://www.edureka.co/blog/azure-virtual-network-tutorial/
+https://brainscale.com/blogs/microsoft-azure-networking-part-3/
+https://azure.microsoft.com/en-us/product-categories/networking/
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+https://searchcloudcomputing.techtarget.com/feature/Words-to-go-Microsoft-Azure-networking-services
+https://azure.microsoft.com/es-es/blog/networking-to-and-within-the-azure-cloud/
+https://www.juniper.net/documentation/en_US/vsrx/topics/task/multi-task/security-vsrx-azure-marketplace-virtual-network.html
+https://blog.cloudpassage.com/2019/02/28/securing-azure-virtual-network/
+
+#############################################
+
+*Create Azure Virtual Machine*
+https://linuxize.com/post/how-to-install-jenkins-on-ubuntu-18-04/
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+https://www.digitalocean.com/community/tutorials/how-to-configure-jenkins-with-ssl-using-an-nginx-reverse-proxy-on-ubuntu-18-04
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04
+
+*Putty*
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
+https://www.ssh.com/ssh/
+https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-connect-vm
+
+*Azure Networking - IP*
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-public-ip-address
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm
+
+*Azure IOPS*
+https://blogs.technet.microsoft.com/andrewc/2016/09/09/understanding-azure-virtual-machine-iops-throughput-and-disk-latency/
+
+*Azure Networking - Network security group*
+https://robertsmit.wordpress.com/2017/09/11/step-by-step-azure-network-security-groups-nsg-security-center-azure-nsg-network/
+https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+https://blogs.msdn.microsoft.com/igorpag/2016/05/14/azure-network-security-groups-nsg-best-practices-and-lessons-learned/
+
+*Azure Authentication and Active directory*
+https://viblo.asia/p/tong-quan-ve-active-directory-tren-windows-server-4dbZNxJk5YM
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
+https://docs.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad
+https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios
+https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization
+https://azure.microsoft.com/es-es/blog/azure-websites-authentication-authorization/
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-protocols-oauth-code
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-api-authentication
+https://www.red-gate.com/simple-talk/cloud/security-and-compliance/azure-active-directory-part-1-an-introduction/
+https://www.varonis.com/blog/windows-vs-azure-active-directory/
+
+############################################################
+
+#Install powershell core to ubuntu-18-04 via SNAP
+https://vitux.com/how-to-install-microsoft-powershell-on-ubuntu/
+https://stackoverflow.com/questions/10452905/how-to-run-a-powershell-script-as-a-job-in-jenkins
+
+#Install powershell core to ubuntu-18-04 general ways
+https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-6
+https://websiteforstudents.com/install-microsoft-powershell-core-for-linux-on-ubuntu-16-04-18-04/
+https://www.linuxhelp.com/how-to-install-powershell-on-ubuntu-16-04-lts
+https://gist.github.com/goyalmohit/0e58a42a7e2d7176adbfc1d8de2a388c
+https://www.tutorialspoint.com/articles/how-to-install-microsoft-powershell-on-ubuntu-16-04
+
+#Using Azure VM agent plugin to deploy Jenkins build on Azure's virtual machine
+https://docs.microsoft.com/en-us/azure/jenkins/jenkins-azure-vm-agents
+https://wiki.jenkins.io/display/JENKINS/Azure+VM+Agents+Plugin
+https://viblo.asia/p/part-4-jenkins-ci-cau-hinh-slave-node-machine-va-tich-hop-he-thong-phan-tan-phan-cuoi-4P856aNLlY3
+https://wiki.jenkins.io/display/JENKINS/Distributed+builds
+https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli?toc=%2Fazure%2Fazure-resource-manager&view=azure-cli-latest#code-try-0
+
+
+
+
+
