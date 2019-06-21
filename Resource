@@ -162,6 +162,15 @@ https://mcpmag.com/articles/2017/12/20/powershell-pester-best-practices.aspx
 https://www.petri.com/testing-powershell-with-pester
 https://help.insight.com/app/answers/detail/a_id/129/~/pester-powershell-infrastructure-test-tutorial
 
+###Custom virtual machine##################
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/upload-generalized-managed
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/upload-vhd
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-manage#access-keys
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-generic#general-linux-installation-notes
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-custom-images
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-custom-images
+
 
 
 
