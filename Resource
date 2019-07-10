@@ -171,6 +171,8 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-gene
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-custom-images
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-custom-images
 
+#############################################################
+https://kipalog.com/posts/Tong-quan-ve-Version-control
 
 
 
