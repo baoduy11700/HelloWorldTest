@@ -1,0 +1,20 @@
+https://viblo.asia/p/elasticsearch-la-gi-1Je5E8RmlnL
+https://techtalk.vn/big-data-tong-quan-ve-elasticsearch.html
+https://kipalog.com/posts/Elastic-search-la-gi
+https://www.mastercode.vn/blog/web-development/elasticsearch-la-gi-huong-dan-cai-dat-elasticsearch.90
+https://techblog.vn/elasticsearch-la-gi
+https://www.c-sharpcorner.com/article/getting-started-with-elasticsearch/
+https://www.elastic.co/guide/en/elasticsearch/client/net-api/1.x/elasticsearch-net-quick-start.html
+https://www.elastic.co/guide/en/elasticsearch/client/net-api/1.x/elasticsearch-net-connecting.html
+https://www.toptal.com/dot-net/elasticsearch-dot-net-developers
+https://social.technet.microsoft.com/wiki/contents/articles/35095.crud-operation-in-elasticsearch-using-c-and-nest.aspx
+https://social.technet.microsoft.com/wiki/contents/articles/34476.searching-data-in-elasticsearch-using-c.aspx
+http://www.codemog.com/how-to-work-with-elasticsearch-using-csharp/
+https://www.infoworld.com/article/3223402/how-to-work-with-elasticsearch-in-net.html
+https://discuss.elastic.co/t/how-to-index-file-system/28281
+
+### SCANNING ###
+https://stackoverflow.com/questions/929276/how-to-recursively-list-all-the-files-in-a-directory-in-c
+https://support.microsoft.com/en-us/help/303974/how-to-recursively-search-directories-by-using-visual-c
+https://stackoverflow.com/questions/724148/is-there-a-faster-way-to-scan-through-a-directory-recursively-in-net
+https://stackoverflow.com/questions/6061957/get-all-files-and-directories-in-specific-path-fast
